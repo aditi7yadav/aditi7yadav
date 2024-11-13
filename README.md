@@ -14,7 +14,7 @@ Highly motivated to learn, grow and excel in the Data Science Industry.
 
 - 🌱 I’m currently learning **Data Science tools, techniques, AI, ML, NLP**
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available at [https://github.com/aditi7yadav?tab=repositories](https://github.com/aditi7yadav?tab=repositories)
 
 - 📝 I regularly write articles on [link](link)
 
