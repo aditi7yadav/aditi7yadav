@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi7yadav&label=Profile%20views&color=0e75b6&style=flat" alt="aditi7yadav" /> </p>
 
-🌐 Driven by a passion for data-powered solutions and innovation, I hold a Master's in Computer Science from George Washington University. With hands-on experience in data analytics and science, I specialize in transforming complex data into actionable insights using SQL, Tableau, Power BI, Python, and advanced analytics to fuel smarter decision-making
+🌐 Driven by a passion for data-powered solutions and innovation, I hold a Master's in Computer Science from George Washington University. With hands-on experience in data analytics and science, I specialize in transforming complex data into actionable insights using SQL, Tableau, Power BI, Python, and advanced analytics to fuel smarter decision-making.
 
 Having sound knowledge of Java, Python, SQL, AWS, SNOWFLAKE, ML, NLP, MS Excel, Tableau & Power BI.
 Solid understanding of exploratory data analysis using SQL, R & Python language.
