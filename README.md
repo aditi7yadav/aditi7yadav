@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aditi Yadav</h1>
-<h3 align="center">A passionate Data-Science Analyst</h3>
+<h3 align="center">A Data-Science Analyst 🎓 CS Grad Student | 📊 Passionate About Data | 🤖 Exploring Machine Learning | 🔍 Data Analysis Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi7yadav&label=Profile%20views&color=0e75b6&style=flat" alt="aditi7yadav" /> </p>
+
+🌐 Driven by a passion for data-powered solutions and innovation, I hold a Master's in Computer Science from George Washington University. With hands-on experience in data analytics and science, I specialize in transforming complex data into actionable insights using SQL, Tableau, Power BI, Python, and advanced analytics to fuel smarter decision-making
+
+Having sound knowledge of Java, Python, SQL, AWS, SNOWFLAKE, ML, NLP, MS Excel, Tableau & Power BI.
+Solid understanding of exploratory data analysis using SQL, R & Python language.
+Advanced understanding of statistical, algebraic, and other analytical techniques.
+Experience working in an Agile Environment.
+Strong Communication, Presentation, and Interpersonal skills with excellent problem-solving capabilities.
+Highly motivated to learn, grow and excel in the Data Science Industry.
 
 - 🌱 I’m currently learning **Data Science tools, techniques, AI, ML, NLP**
 
